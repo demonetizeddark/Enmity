@@ -1,17 +1,18 @@
 {
-	"name": "example",
-	"author": "L+RATIO#1000",
-	"version": "4.2.0",
-	"description": "Your bunk ass theme... Now with BLUR!",
+	"name": "Strikethrough",
+	"author": "MorbidMeta#8594",
+	"version": "1.0.0",
+	"description": "Your bunk ass theme.",
+	"color": "#6b4adc",
 	"authors": [ 
 		{
-			"name": "NEO",
-			"id": "424806150702366723"
+			"name": "MorbidMeta",
+			"id": "366436594162597889"
 		}
 	],
 	"background": {
 		"blur": "1",
-		"url": "https://i.imgur.com/sEkjODE.jpeg",
+		"url": "https://raw.githubusercontent.com/demonetizeddark/wallpaperrepository/main/screencapture-play-hbomax-player-urn-hbo-episode-GYV8vPAK-6pbCwgEAAAA1-2022-08-05-17_13_35.jpg",
 		"alpha": "0.69"
 	},
 	"theme_color_map": {
